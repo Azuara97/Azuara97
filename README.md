@@ -2,7 +2,7 @@
 
 I'm a videogame programmer, software engineer and full-stack developer. I have over 4 years of experience in the gaming, virtual reality, and augmented reality industries. Skilled in backend programming, frontend development, and animation using game engines like Unity, Unreal Engine, and Frostbite. Always striving for excellence and seeking new opportunities to grow in the field.
 
-## Currently I'm studying an AEC program at Vanier College
+## Currently I'm finishing study an AEC program at Vanier College
 + Game Project: [Rhythmic Survivor Game](https://github.com/Azuara97/RhythmicSurvivorDemo)
 + Full-stack Project: [MVC Farmer Storage](https://github.com/Azuara97/FarmerStorage)
 + Frontend Project:
