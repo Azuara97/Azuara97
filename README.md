@@ -2,7 +2,7 @@
 
 I'm a passionate games programmer with over 5 years of experience working with C# and C++. Skilled in gameplay programming (Game Physics, Input Controller, Camera's movement/rotation and AI enemy/NPCs), UI/UX programming (HUD in-game and Menus), animation’s integration and programming inside game engines as Unreal Engine, Unity, and Frostbite. Always striving for excellence and challenges to apply my knowledge/experience in the games industry.
 
-## Finished an AEC program at Vanier College
+## Projects from my AEC program at Vanier College
 + Game Project (Unity - C#): [Rhythmic Survivor Game](https://github.com/Azuara97/RhythmicSurvivorDemo)
 + Full-stack Project (RESTFUL API/MVC - .NET): [MVC Farmer Storage](https://github.com/Azuara97/FarmerStorage)
 + Frontend Project (HTML/CSS/JavaScript):
@@ -13,7 +13,7 @@ I'm a passionate games programmer with over 5 years of experience working with C
 ## Previous work project
 + [3D Show Room (Unity)](https://github.com/Azuara97/Azuara97.github.io)
 
-## Previous project from my Bachelor's of Science in Games Programming
+## Projects from my Bachelor's of Science in Games Programming
 + [Cart Game (Unity)](https://github.com/Azuara97/TestKart)
 + [Puyo Puyo Tetris (Unity)](https://github.com/Azuara97/PuyoPuyoTetris)
 + [Space Invaders (Unity)](https://github.com/Azuara97/SpaceInvaders)
