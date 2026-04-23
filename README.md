@@ -1,8 +1,8 @@
 # I'm Luis Ricardo Azuara Maldonado! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="35" height="35" />
 
-Passionate and experienced gameplay programmer with over 5 years of hands-on experience in both Indie and AAA game development environments, specializing in C++ and C#. Skilled primarily in gameplay systems (including game physics, input handling, camera movement, and AI for enemies/NPCs) but experienced also in UI programming (HUDs and menus), and character animation integration across multiple platforms. Proficient with industry-standard engines such as Unreal Engine 4 & 5, Unity, and Frostbite. Currently seeking to contribute my expertise to a games programming role in Canada. Always striving for excellence and challenges to apply my knowledge/experience in the games industry.
+Passionate and experienced gameplay programmer with over 5 years of hands-on experience in both Indie and AAA game development environments, specializing in C++ and C#. Skilled primarily in gameplay systems but experienced also in UI programming, tools programming and character animation integration across multiple platforms. Proficient with industry-standard engines such as Unreal Engine 4 & 5, Unity, and Frostbite. Currently seeking to contribute my expertise to a games programming role in Canada. Always striving for excellence and challenges to apply my knowledge/experience in the games industry.
 
-## Projects from my AEC program at Vanier College
+## Projects from the AEC program at Vanier College
 + Game Project (Unity - C#): [Rhythmic Survivor Game](https://github.com/Azuara97/RhythmicSurvivorDemo)
 + Full-stack Project (RESTFUL API/MVC - .NET): [MVC Farmer Storage](https://github.com/Azuara97/FarmerStorage)
 + Frontend Project (HTML/CSS/JavaScript):
@@ -13,7 +13,7 @@ Passionate and experienced gameplay programmer with over 5 years of hands-on exp
 ## Previous work project
 + [3D Show Room (Unity)](https://github.com/Azuara97/Azuara97.github.io)
 
-## Projects from my Bachelor's of Science in Games Programming
+## Projects from my Bachelor of Science in Games Programming
 + [Cart Game (Unity)](https://github.com/Azuara97/TestKart)
 + [Puyo Puyo Tetris (Unity)](https://github.com/Azuara97/PuyoPuyoTetris)
 + [Space Invaders (Unity)](https://github.com/Azuara97/SpaceInvaders)
@@ -22,7 +22,7 @@ Passionate and experienced gameplay programmer with over 5 years of hands-on exp
 [<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">](www.linkedin.com/in/luis-r-azuara)
 
 ## Fun Facts
-+ MTG Player <img src="http://eakett.ca/mtgimage/symbol/mana/bg.svg" width="30">
++ MTG Player
 + Prayer of the Machinge God <img src="https://media1.tenor.com/m/rrRhdjdwrWUAAAAC/warhammer40000-wh40k.gif" width="60">
 + Gamer
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
